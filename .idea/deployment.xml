@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="mipsel-remote (bb67bbaf-9a1c-42cb-850a-99113ad0f007)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/CLionRemote/wakeonlan-tcp" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-mipsel" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-mispel-gnu" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-mipsel-gnu" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
