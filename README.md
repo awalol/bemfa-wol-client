@@ -49,7 +49,7 @@
 export UID="你的私钥"
 export TOPIC="你的主题"
 export MAC="目标MAC"
-export INTERFACE="br-lan"
+export INTERFACE="br0"
 
 ./wol-client
 
@@ -74,4 +74,4 @@ export INTERFACE="br-lan"
 
 ## 📄 开源协议
 
-本项目基于 [MIT License](https://www.google.com/search?q=LICENSE) 开源。
+本项目基于 [MIT License](https://github.com/awalol/bemfa-wol-client/blob/main/README.md) 开源。
